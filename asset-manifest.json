@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://moreira4568.github.io/csb-9wfwfv/static/css/main.c2858c0b.chunk.css",
+    "main.js": "https://moreira4568.github.io/csb-9wfwfv/static/js/main.3fb33e77.chunk.js",
+    "main.js.map": "https://moreira4568.github.io/csb-9wfwfv/static/js/main.3fb33e77.chunk.js.map",
+    "runtime-main.js": "https://moreira4568.github.io/csb-9wfwfv/static/js/runtime-main.89a8f1fe.js",
+    "runtime-main.js.map": "https://moreira4568.github.io/csb-9wfwfv/static/js/runtime-main.89a8f1fe.js.map",
+    "static/js/2.cc33dbb2.chunk.js": "https://moreira4568.github.io/csb-9wfwfv/static/js/2.cc33dbb2.chunk.js",
+    "static/js/2.cc33dbb2.chunk.js.map": "https://moreira4568.github.io/csb-9wfwfv/static/js/2.cc33dbb2.chunk.js.map",
+    "index.html": "https://moreira4568.github.io/csb-9wfwfv/index.html",
+    "precache-manifest.b3332e3342909da01b8b0ae3e932fcbc.js": "https://moreira4568.github.io/csb-9wfwfv/precache-manifest.b3332e3342909da01b8b0ae3e932fcbc.js",
+    "service-worker.js": "https://moreira4568.github.io/csb-9wfwfv/service-worker.js",
+    "static/css/main.c2858c0b.chunk.css.map": "https://moreira4568.github.io/csb-9wfwfv/static/css/main.c2858c0b.chunk.css.map",
+    "static/js/2.cc33dbb2.chunk.js.LICENSE.txt": "https://moreira4568.github.io/csb-9wfwfv/static/js/2.cc33dbb2.chunk.js.LICENSE.txt",
+    "static/js/main.3fb33e77.chunk.js.LICENSE.txt": "https://moreira4568.github.io/csb-9wfwfv/static/js/main.3fb33e77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a8f1fe.js",
+    "static/js/2.cc33dbb2.chunk.js",
+    "static/css/main.c2858c0b.chunk.css",
+    "static/js/main.3fb33e77.chunk.js"
+  ]
+}
